@@ -1,0 +1,22 @@
+[
+  {
+    "type": "body",
+    "description": "Estique um de seus braços",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Estique um de seus braços",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Estique um de seus braços",
+    "amount": 120
+  },
+  {
+    "type": "eye",
+    "description": "olhe",
+    "amount": 40
+  }
+]
