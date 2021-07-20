@@ -37,4 +37,4 @@ This project is under the [MIT](https://github.com/renanllima/nlw4-moveit/blob/m
 
 ---
 
-Made by [Renan](https://github.com/renanllima)
+Made by [Renan](https://github.com/renanconst)
